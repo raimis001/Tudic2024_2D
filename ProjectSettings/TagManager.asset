@@ -7,6 +7,10 @@ TagManager:
   - Bullet
   - Teleport
   - Cone
+  - Key
+  - Secret
+  - Endscreen
+  - Elevator
   layers:
   - Default
   - TransparentFX
