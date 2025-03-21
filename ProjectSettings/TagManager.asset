@@ -11,6 +11,7 @@ TagManager:
   - Secret
   - Endscreen
   - Elevator
+  - Coin
   layers:
   - Default
   - TransparentFX
